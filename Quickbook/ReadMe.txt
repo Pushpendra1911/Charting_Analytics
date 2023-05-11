@@ -25,7 +25,7 @@ Before running the Charting and Analytics Service, ensure you have the following
 
 #    Create a virtual environment:
 
-``` https://github.com/ThakurPushpendra/QuickBook.git
+``` https://github.com/pushpendra1911/Charting_Analytics.git
 
 python3 -m venv venv
 
